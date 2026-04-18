@@ -1,0 +1,17 @@
+name: lab3_form_navigator
+description: Lab3 - Form, Navigation and Get API with Dio
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  dio: ^5.4.0
+
+flutter:
+  uses-material-design: true

@@ -1,0 +1,27 @@
+# Lab3 - Form, Navigation & Get API with Dio
+
+## Cấu trúc project
+
+```
+lib/
+├── main.dart                        # Khởi tạo app, định nghĩa routes
+├── services/
+│   └── api_service.dart             # Gọi API bằng Dio
+└── screens/
+    ├── login_screen.dart            # Màn hình đăng nhập
+    ├── signup_screen.dart           # Màn hình đăng ký
+    └── reset_password_screen.dart   # Màn hình reset mật khẩu
+```
+
+## Cài đặt & chạy
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Mock API
+
+Endpoint: https://69ddcc1a410caa3d47b9fdad.mockapi.io/login
+
+Tạo tài khoản test trên mockapi.io với các field: username, password
