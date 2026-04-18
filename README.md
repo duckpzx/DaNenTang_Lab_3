@@ -41,4 +41,6 @@ Fields: `username`, `email`, `password`
 | [▶ Login & Register](Video/login&register.mp4) | Demo đăng nhập và đăng ký |
 | [▶ Reset Password](Video/reset.mp4) | Demo reset mật khẩu |
 | [▶ API](Video/api.mp4) | Demo gọi API |
-"# DaNenTang_Lab_3" 
+"# DaNenTang_Lab_3"
+<video src="Video/login&register.mp4" controls width="100%"></video>
+
