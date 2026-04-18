@@ -32,14 +32,16 @@ Fields: `username`, `email`, `password`
 
 ---
 
-## 🎬 Demo Video
+## 🎬 Video
 
-[![▶ Xem Demo Videos](https://img.shields.io/badge/▶%20Xem%20Demo%20Videos-Click%20vào%20đây-blue?style=for-the-badge)](Video/)
+### Login & Register
+<video src="https://github.com/user-attachments/assets/5680df03-341d-4aab-b7d7-6c6584a379e9" controls width="600"></video>
 
-| Video | Mô tả |
-|-------|-------|
-| [▶ Login & Register](Video/login&register.mp4) | Demo đăng nhập và đăng ký |
-| [▶ Reset Password](Video/reset.mp4) | Demo reset mật khẩu |
-| [▶ API](Video/api.mp4) | Demo gọi API |
-"# DaNenTang_Lab_3"
+### Reset Password
+<video src="https://github.com/user-attachments/assets/c16dca89-bf12-4db8-8560-685dd3013409" controls width="600"></video>
+
+### API Demo
+<video src="https://github.com/user-attachments/assets/76f4fa4e-c5f4-41f8-b0ca-9264d24995d3" controls width="600"></video>
+"# DaNenTang_Lab_3" 
+
 
